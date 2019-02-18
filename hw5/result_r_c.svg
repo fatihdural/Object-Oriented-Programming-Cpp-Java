@@ -1,0 +1,17 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg"> 
+<rect  width="452" height="320" fill="red" />
+ <circle cx="46" cy="46" r="46" fill="green" stroke="black" stroke-width="0.5" /> 
+ <circle cx="138" cy="46" r="46" fill="green" stroke="black" stroke-width="0.5" /> 
+ <circle cx="230" cy="46" r="46" fill="green" stroke="black" stroke-width="0.5" /> 
+ <circle cx="322" cy="46" r="46" fill="green" stroke="black" stroke-width="0.5" /> 
+ <circle cx="46" cy="138" r="46" fill="green" stroke="black" stroke-width="0.5" /> 
+ <circle cx="138" cy="138" r="46" fill="green" stroke="black" stroke-width="0.5" /> 
+ <circle cx="230" cy="138" r="46" fill="green" stroke="black" stroke-width="0.5" /> 
+ <circle cx="322" cy="138" r="46" fill="green" stroke="black" stroke-width="0.5" /> 
+ <circle cx="401" cy="92" r="46" fill="green" stroke="black" stroke-width="0.5" /> 
+ <circle cx="46" cy="230" r="46" fill="green" stroke="black" stroke-width="0.5" /> 
+ <circle cx="138" cy="230" r="46" fill="green" stroke="black" stroke-width="0.5" /> 
+ <circle cx="230" cy="230" r="46" fill="green" stroke="black" stroke-width="0.5" /> 
+ <circle cx="322" cy="230" r="46" fill="green" stroke="black" stroke-width="0.5" /> 
+ <circle cx="401" cy="184" r="46" fill="green" stroke="black" stroke-width="0.5" /> 
+</svg>
