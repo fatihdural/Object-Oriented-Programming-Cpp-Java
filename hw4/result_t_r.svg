@@ -1,0 +1,44 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg"> 
+ <polygon points=" 0 619 357 0 715 619 " fill="red" /> 
+ <polygon points=" 25 574 120 574 120 619 25 619 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 120 574 215 574 215 619 120 619 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 215 574 310 574 310 619 215 619 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 310 574 405 574 405 619 310 619 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 405 574 500 574 500 619 405 619 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 500 574 595 574 595 619 500 619 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 51 529 146 529 146 574 51 574 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 146 529 241 529 241 574 146 574 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 241 529 336 529 336 574 241 574 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 336 529 431 529 431 574 336 574 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 431 529 526 529 526 574 431 574 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 526 529 621 529 621 574 526 574 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 77 484 172 484 172 529 77 529 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 172 484 267 484 267 529 172 529 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 267 484 362 484 362 529 267 529 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 362 484 457 484 457 529 362 529 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 457 484 552 484 552 529 457 529 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 103 439 198 439 198 484 103 484 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 198 439 293 439 293 484 198 484 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 293 439 388 439 388 484 293 484 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 388 439 483 439 483 484 388 484 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 483 439 578 439 578 484 483 484 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 129 394 224 394 224 439 129 439 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 224 394 319 394 319 439 224 439 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 319 394 414 394 414 439 319 439 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 414 394 509 394 509 439 414 439 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 155 349 250 349 250 394 155 394 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 250 349 345 349 345 394 250 394 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 345 349 440 349 440 394 345 394 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 440 349 535 349 535 394 440 394 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 181 304 276 304 276 349 181 349 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 276 304 371 304 371 349 276 349 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 371 304 466 304 466 349 371 349 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 207 259 302 259 302 304 207 304 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 302 259 397 259 397 304 302 304 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 397 259 492 259 492 304 397 304 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 233 214 328 214 328 259 233 259 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 328 214 423 214 423 259 328 259 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 259 169 354 169 354 214 259 214 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 354 169 449 169 449 214 354 214 " fill="green" stroke="black" stroke-width="0.5"/> 
+ <polygon points=" 285 124 380 124 380 169 285 169 " fill="green" stroke="black" stroke-width="0.5"/> 
+</svg>
